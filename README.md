@@ -7,3 +7,4 @@ This dataset contain information Movies
 [my dashborad](https://app.powerbi.com/links/b0ZO7IUrJc?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
 
 >
+[Hollywood movie Power BI  Dashbord.docx](https://github.com/Idahosak/Hollywood-Movies-dashboard-/files/11231639/Hollywood.movie.Power.BI.Dashbord.docx)

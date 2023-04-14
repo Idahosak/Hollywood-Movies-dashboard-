@@ -8,4 +8,4 @@ This dataset contain information Movies
 
 >
 [Hollywood movie Power BI  Dashbord.docx](https://github.com/Idahosak/Hollywood-Movies-dashboard-/files/11231639/Hollywood.movie.Power.BI.Dashbord.docx)
-![image](https://user-images.githubusercontent.com/130657021/232016406-0dbef5aa-3e78-4b65-8dd8-709f0d2ddba3.png)
+
